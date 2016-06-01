@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1428868055 source:d:\orai\kigyocska\main.cpp
+	<iostream>
+	<malloc.h>
+	<conio.h>
+	<time.h>
+	<stdio.h>
+	"MyConsole.h"
+
+1428868105 d:\orai\kigyocska\myconsole.h
+	<windows.h>
+
+1428868731 source:c:\users\asd\dropbox\szfe_2014\prog\c_strukturalt\33_hf_ii\kigyocska\main.cpp
+	<iostream>
+	<malloc.h>
+	<conio.h>
+	<time.h>
+	<stdio.h>
+	"MyConsole.h"
+
+1428868105 c:\users\asd\dropbox\szfe_2014\prog\c_strukturalt\33_hf_ii\kigyocska\myconsole.h
+	<windows.h>
+

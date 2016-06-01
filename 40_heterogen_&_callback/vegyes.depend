@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1431166485 source:d:\orai\vegyes\main.cpp
+	<stdio.h>
+	<conio.h>
+	"SEmber.h"
+	"STuzolto.h"
+	"Lista.h"
+
+1431097045 d:\orai\vegyes\sember.h
+
+1431166529 source:d:\orai\vegyes\sember.cpp
+	<malloc.h>
+	<stdlib.h>
+	<stdio.h>
+	"SEmber.h"
+
+1431166529 source:d:\orai\vegyes\stuzolto.cpp
+	<malloc.h>
+	<stdlib.h>
+	<stdio.h>
+	"STuzolto.h"
+
+1431097033 d:\orai\vegyes\stuzolto.h
+
+1431164759 source:d:\orai\vegyes\lista.cpp
+	<malloc.h>
+	"Lista.h"
+
+1431163160 d:\orai\vegyes\lista.h
+

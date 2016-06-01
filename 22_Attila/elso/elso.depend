@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1420894500 source:d:\orai\elso\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,27 @@
+void Refresh(int GX, int GY)
+{
+    int i,j;
+    for(i=0; i<3; i=i+1)
+    {
+        for(j=0; j<3; j=j+1)
+        {
+            Set_Console_Cursor_Position((GX+1)+i*2,(GY+1)+j*2);
+           // printf("%i",FIELDS[i][j]);
+            switch(FIELDS[i][j])
+            {
+            case -1:
+                Set_Console_Text_Color(9);
+                printf("x");
+                break;
+            case  0:
+                printf(" ");
+                break;
+            case  1:
+                Set_Console_Text_Color(10);
+                printf("o");
+                break;
+            }
+        }
+    Set_Console_Text_Color(7);
+    }
+}

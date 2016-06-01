@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1417260633 source:d:\szfe13\c\15a_tomb\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

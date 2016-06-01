@@ -1,0 +1,11 @@
+int GetPlayerNumber()
+{
+    int jatekosokszama;
+    printf("Hany jatekos jatszon? (0-1-2)\n");
+    scanf("%i", &jatekosokszama);
+    while(jatekosokszama>2 || jatekosokszama<0)
+    {
+        printf("Nem jo szamot adtal meg! Ird be ujra!\n");
+        scanf("%i", &jatekosokszama);
+    }
+}

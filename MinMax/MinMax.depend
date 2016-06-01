@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1445633130 source:c:\users\dem_g\documents\c project\minmax\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"fej.h"
+
+1445633144 c:\users\dem_g\documents\c project\minmax\fej.h
+

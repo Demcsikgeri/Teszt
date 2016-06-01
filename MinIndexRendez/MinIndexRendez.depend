@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1445635439 source:c:\users\dem_g\documents\c project\minindexrendez\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"fej.h"
+
+1445635452 c:\users\dem_g\documents\c project\minindexrendez\fej.h
+

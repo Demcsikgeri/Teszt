@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1422109798 source:c:\users\szfe\desktop\tictactoe Üres\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"MyConsole.h"
+
+1421869142 c:\users\szfe\desktop\tictactoe Üres\myconsole.h
+	<windows.h>
+
+1422113583 source:c:\users\asd\dropbox\szfe_2014\prog\c_strukturalt\24_tictactoe kész változat\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"MyConsole.h"
+
+1421872742 c:\users\asd\dropbox\szfe_2014\prog\c_strukturalt\24_tictactoe kész változat\myconsole.h
+	<windows.h>
+

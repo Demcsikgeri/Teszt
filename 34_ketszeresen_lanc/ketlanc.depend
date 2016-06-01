@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1429287976 source:d:\orai\ketlanc\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<conio.h>
+

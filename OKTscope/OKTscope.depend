@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1451772638 source:c:\users\golsoft\documents\c project\oktscope\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"fej.h"
+
+1451772799 c:\users\golsoft\documents\c project\oktscope\fej.h
+

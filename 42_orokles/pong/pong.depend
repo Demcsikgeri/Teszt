@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1431769654 source:d:\orai\pong\main.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	"C2D_Vector.h"
+	"MyConsole.h"
+
+1431763173 d:\orai\pong\c2d_vector.h
+
+1430083506 d:\orai\pong\myconsole.h
+	<windows.h>
+
+1430083525 source:d:\orai\pong\myconsole.cpp
+	"MyConsole.h"
+

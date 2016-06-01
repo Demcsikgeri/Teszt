@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1431777794 source:d:\orai\vau\main.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+

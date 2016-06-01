@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1429894277 source:d:\orai\s13_parser\main.cpp
+	<stdio.h>
+	<conio.h>
+	"MyConsole.h"
+	"../S13_generator/Szinek.h"
+
+1421849157 d:\orai\s13_parser\myconsole.h
+	<windows.h>
+
+1429894002 d:\orai\s13_generator\szinek.h
+

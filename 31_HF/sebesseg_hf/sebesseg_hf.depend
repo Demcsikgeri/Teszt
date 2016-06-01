@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1385316878 source:d:\orai\sebesseg_hf\main.cpp
+	<iostream>
+
+1426434930 source:d:\orai\sebesseg_hf\adatok.cpp
+	"adatok.h"
+
+1426434920 d:\orai\sebesseg_hf\adatok.h
+
+1426438530 source:c:\users\soma\dropbox\szfe_2014\prog\c_strukturalt\31_hf\sebesseg_hf\adatok.cpp
+	"adatok.h"
+
+1426444265 c:\users\soma\dropbox\szfe_2014\prog\c_strukturalt\31_hf\sebesseg_hf\adatok.h
+
+1426438530 source:c:\users\asd\dropbox\szfe_2014\prog\c_strukturalt\31_hf\sebesseg_hf\adatok.cpp
+	"adatok.h"
+
+1426444265 c:\users\asd\dropbox\szfe_2014\prog\c_strukturalt\31_hf\sebesseg_hf\adatok.h
+
+1428655795 source:c:\users\asd\dropbox\szfe_2014\prog\c_strukturalt\31_hf\sebesseg_hf\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"adatok.h"
+

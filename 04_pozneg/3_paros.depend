@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1415971885 source:d:\szfe13\c\3_paros\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1415972443 source:d:\szfe13\c\4_pozneg\main.c
+	<stdio.h>
+	<stdlib.h>
+

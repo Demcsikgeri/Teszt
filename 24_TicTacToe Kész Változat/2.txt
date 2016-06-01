@@ -1,0 +1,41 @@
+void DrawGrid(int y6, int x6)
+   {
+       //ertek
+       Set_Console_Cursor_Position(y6,x6-1);
+       printf(" A B C");
+
+       Set_Console_Cursor_Position(y6-1,x6+1);
+       printf("1");
+
+       Set_Console_Cursor_Position(y6-1,x6+3);
+       printf("2");
+
+       Set_Console_Cursor_Position(y6-1,x6+5);
+       printf("3");
+
+
+
+
+       //tabla
+       Set_Console_Cursor_Position(y6,x6);
+       printf("%c%c%c%c%c%c%c",201,205,203,205,203,205,187);
+
+       Set_Console_Cursor_Position(y6,x6+1);
+       printf("%c %c %c %c",186,186,186,186);
+
+       Set_Console_Cursor_Position(y6,x6+2);
+       printf("%c%c%c%c%c%c%c",204,205,206,205,206,205,185);
+
+       Set_Console_Cursor_Position(y6,x6+3);
+       printf("%c %c %c %c",186,186,186,186);
+
+       Set_Console_Cursor_Position(y6,x6+4);
+       printf("%c%c%c%c%c%c%c",204,205,206,205,206,205,185);
+
+       Set_Console_Cursor_Position(y6,x6+5);
+       printf("%c %c %c %c",186,186,186,186);
+
+       Set_Console_Cursor_Position(y6,x6+6);
+       printf("%c%c%c%c%c%c%c",200,205,202,205,202,205,188);
+
+   }

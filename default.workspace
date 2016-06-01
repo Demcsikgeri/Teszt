@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="BuborekRendez/BuborekRendez.cbp" />
+		<Project filename="Csere/Csere.cbp" />
+		<Project filename="CsereRendez/CsereRendez.cbp" />
+		<Project filename="Eldontes/Eldontes.cbp" />
+		<Project filename="KaraktFuggvenyek/KaraktFuggvenyek.cbp" />
+		<Project filename="kezd/kezd.cbp" />
+		<Project filename="Kivalasztas/Kivalasztas.cbp" />
+		<Project filename="Kivalogat/Kivalogat.cbp" />
+		<Project filename="LinKereses/LinKereses.cbp" />
+		<Project filename="MatemFuggvenyek/MatemFuggvenyek.cbp" />
+		<Project filename="Megszamol/Megszamol.cbp" />
+		<Project filename="MinIndexRendez/MinIndexRendez.cbp" />
+		<Project filename="MinMax/MinMax.cbp" />
+		<Project filename="MinMaxIndex/MinMaxIndex.cbp" />
+		<Project filename="Osszegzes/Osszegzes.cbp" />
+		<Project filename="PutsGets/PutsGets.cbp" />
+		<Project filename="RandGenerator/RandGenerator.cbp" />
+		<Project filename="StringFuggvenyek/StringFuggvenyek.cbp" />
+		<Project filename="OKThello/OKThello.cbp" />
+		<Project filename="OKTwork/OKTwork.cbp" />
+		<Project filename="OKTworkcpp/OKTworkcpp.cbp" />
+		<Project filename="OKTc_anatomia/OKTc_anatomia.cbp" />
+		<Project filename="OKTscope/OKTscope.cbp" />
+		<Project filename="01_dupla/1_dupla.cbp" />
+		<Project filename="02_masodfoku/02_masodfoku.cbp" />
+		<Project filename="03_paros/3_paros.cbp" />
+		<Project filename="04_pozneg/3_paros.cbp" />
+		<Project filename="05_par_poz/5_par_poz.cbp" />
+		<Project filename="06_masodfoku2/02_masodfoku.cbp" />
+		<Project filename="06_szoko/6_szoko.cbp" />
+		<Project filename="07_szamok_5tol_10ig/07_szamok_5tol_10ig.cbp" />
+		<Project filename="07b_Ciklusok_Hazi/Ciklusok_Hazi.cbp" />
+		<Project filename="08_Ciklusok/Ciklusok_8.cbp" />
+		<Project filename="09a_Ciklusok/Ciklusok_9a.cbp" />
+		<Project filename="09b_Ciklusok/Ciklusok_9b.cbp" />
+		<Project filename="09c_Ciklusok/Ciklusok_9c.cbp" />
+		<Project filename="10a_LNKO/LNKO.cbp" />
+		<Project filename="10b_LKKT/LKKT.cbp" />
+		<Project filename="11_Osztok/Osztok.cbp" />
+		<Project filename="12_prim_e/12_prim_e.cbp" />
+		<Project filename="13_1_szamig_primek/12_prim_e.cbp" />
+		<Project filename="14_menu/14_menu.cbp" />
+		<Project filename="15_paintball/15_paintball.cbp" />
+		<Project filename="15a_tomb/15a_tomb.cbp" />
+		<Project filename="15b_paintball/15_paintball.cbp" />
+		<Project filename="16a_minmax/16a_minmax.cbp" />
+		<Project filename="Mutato/Mutato.cbp" />
+		<Project filename="Tombok/Tombok.cbp" />
+		<Project filename="Stringtomb/Stringtomb.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

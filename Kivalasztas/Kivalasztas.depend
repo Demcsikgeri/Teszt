@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1445632598 source:c:\users\dem_g\documents\c project\kivalasztas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"fej.h"
+
+1445632617 c:\users\dem_g\documents\c project\kivalasztas\fej.h
+

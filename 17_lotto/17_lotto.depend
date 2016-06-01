@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1417802839 source:d:\szfe13\c\17_lotto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1417802915 source:c:\users\dóri\dropbox\szfe_2014\prog\c_strukturalt\17_lotto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1417806515 source:c:\users\asd\dropbox\szfe_2014\prog\c_strukturalt\17_lotto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

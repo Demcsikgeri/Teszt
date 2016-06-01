@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1415978257 source:d:\szfe13\c\06_masodfoku2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

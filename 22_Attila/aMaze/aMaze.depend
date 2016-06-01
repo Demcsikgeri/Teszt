@@ -1,0 +1,88 @@
+# depslib dependency file v1.0
+1420811357 source:d:\__bigcache\dropbox\amaze\amaze.c
+	<conio.h>
+	<stdio.h>
+	<time.h>
+	"aMaze.h"
+	"MyConsole.h"
+	"pots.h"
+
+1420902242 d:\__bigcache\dropbox\amaze\amaze.h
+	"base.h"
+
+1420810442 d:\__bigcache\dropbox\amaze\myconsole.h
+	<windows.h>
+
+1420547191 source:d:\__bigcache\dropbox\amaze\main.c
+	<stdio.h>
+	<conio.h>
+	"MyConsole.h"
+	"aMaze.h"
+	"pots.h"
+
+1420539662 source:d:\__bigcache\dropbox\amaze\pots.c
+	"pots.h"
+
+1420539623 d:\__bigcache\dropbox\amaze\pots.h
+	"aMaze.h"
+
+1420547242 d:\__bigcache\dropbox\amaze\base.h
+
+1420811357 source:c:\users\orsi\dropbox\szfe_2014\prog\c_strukturalt\22_attila\amaze\amaze.c
+	<conio.h>
+	<stdio.h>
+	<time.h>
+	"aMaze.h"
+	"MyConsole.h"
+	"pots.h"
+
+1420902242 c:\users\orsi\dropbox\szfe_2014\prog\c_strukturalt\22_attila\amaze\amaze.h
+	"base.h"
+
+1420547242 c:\users\orsi\dropbox\szfe_2014\prog\c_strukturalt\22_attila\amaze\base.h
+
+1420810442 c:\users\orsi\dropbox\szfe_2014\prog\c_strukturalt\22_attila\amaze\myconsole.h
+	<windows.h>
+
+1420539623 c:\users\orsi\dropbox\szfe_2014\prog\c_strukturalt\22_attila\amaze\pots.h
+	"aMaze.h"
+
+1420547191 source:c:\users\orsi\dropbox\szfe_2014\prog\c_strukturalt\22_attila\amaze\main.c
+	<stdio.h>
+	<conio.h>
+	"MyConsole.h"
+	"aMaze.h"
+	"pots.h"
+
+1420539662 source:c:\users\orsi\dropbox\szfe_2014\prog\c_strukturalt\22_attila\amaze\pots.c
+	"pots.h"
+
+1420814957 source:c:\users\asd\dropbox\szfe_2014\prog\c_strukturalt\22_attila\amaze\amaze.c
+	<conio.h>
+	<stdio.h>
+	<time.h>
+	"aMaze.h"
+	"MyConsole.h"
+	"pots.h"
+
+1420905842 c:\users\asd\dropbox\szfe_2014\prog\c_strukturalt\22_attila\amaze\amaze.h
+	"base.h"
+
+1420550842 c:\users\asd\dropbox\szfe_2014\prog\c_strukturalt\22_attila\amaze\base.h
+
+1420814042 c:\users\asd\dropbox\szfe_2014\prog\c_strukturalt\22_attila\amaze\myconsole.h
+	<windows.h>
+
+1420543223 c:\users\asd\dropbox\szfe_2014\prog\c_strukturalt\22_attila\amaze\pots.h
+	"aMaze.h"
+
+1420550791 source:c:\users\asd\dropbox\szfe_2014\prog\c_strukturalt\22_attila\amaze\main.c
+	<stdio.h>
+	<conio.h>
+	"MyConsole.h"
+	"aMaze.h"
+	"pots.h"
+
+1420543262 source:c:\users\asd\dropbox\szfe_2014\prog\c_strukturalt\22_attila\amaze\pots.c
+	"pots.h"
+

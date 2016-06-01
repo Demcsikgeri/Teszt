@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1418405429 source:d:\szfe13\c\21_nevtomb\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

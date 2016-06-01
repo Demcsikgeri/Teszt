@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1417253203 source:d:\szfe13\c\14_menu\main.c
+	<stdio.h>
+	<stdlib.h>
+

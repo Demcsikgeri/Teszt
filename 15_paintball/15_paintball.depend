@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1417265927 source:d:\szfe13\c\15_paintball\main.c
+	<stdio.h>
+	<stdlib.h>
+

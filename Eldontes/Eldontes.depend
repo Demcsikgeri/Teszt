@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1445628399 source:c:\users\dem_g\documents\c project\eldontes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"fej.h"
+
+1445628086 c:\users\dem_g\documents\c project\eldontes\fej.h
+

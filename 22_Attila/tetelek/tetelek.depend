@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1420900848 source:d:\orai\tetelek\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+
+1420904448 source:c:\users\soma\dropbox\szfe_2014\prog\c_strukturalt\22_attila\tetelek\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+

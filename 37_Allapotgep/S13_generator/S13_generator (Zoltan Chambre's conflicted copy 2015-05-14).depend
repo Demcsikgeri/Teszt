@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1429894088 source:d:\orai\s13_generator\main.cpp
+	<conio.h>
+	<stdio.h>
+	"Szinek.h"
+
+1429894002 d:\orai\s13_generator\szinek.h
+
+1429894088 source:c:\users\asd\dropbox\szfe_2014\prog\c_strukturalt\37_allapotgep\s13_generator\main.cpp
+	<conio.h>
+	<stdio.h>
+	"Szinek.h"
+
+1429894002 c:\users\asd\dropbox\szfe_2014\prog\c_strukturalt\37_allapotgep\s13_generator\szinek.h
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1451732355 source:c:\users\golsoft\documents\c project\otkhello\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"fej.h"
+
+1451730741 c:\users\golsoft\documents\c project\otkhello\fej.h
+

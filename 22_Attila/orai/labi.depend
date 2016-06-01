@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1420908346 source:d:\orai\labi\main.c
+	<stdio.h>
+	<stdlib.h>
+	"MyConsole.h"
+
+1420901387 d:\orai\labi\myconsole.h
+	<windows.h>
+
+1420908346 source:c:\users\dóri\dropbox\szfe_2014\prog\c_strukturalt\22_attila\orai\main.c
+	<stdio.h>
+	<stdlib.h>
+	"MyConsole.h"
+
+1420901387 c:\users\dóri\dropbox\szfe_2014\prog\c_strukturalt\22_attila\orai\myconsole.h
+	<windows.h>
+

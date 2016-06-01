@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1425729033 source:d:\szfe13\c\27_titkositas\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1425729301 source:d:\szfe13\c\28_visszafejt\main.c
+	<stdio.h>
+	<stdlib.h>
+

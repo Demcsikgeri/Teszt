@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1429367335 source:d:\orai\pointertomb\enkicsilistam.cpp
+	<malloc.h>
+	"SMacska.h"
+
+1429367972 source:d:\orai\pointertomb\main.cpp
+	<iostream>
+	<conio.h>
+	"SMacska.h"
+	"EnKicsiListam.h"
+
+1429360347 source:d:\orai\pointertomb\smacska.cpp
+	<stdio.h>
+	<malloc.h>
+	"SMacska.h"
+
+1429360251 d:\orai\pointertomb\smacska.h
+
+1429368850 d:\orai\pointertomb\enkicsilistam.h
+
